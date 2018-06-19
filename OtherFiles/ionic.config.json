@@ -1,0 +1,8 @@
+{
+  "name": "parkingapp",
+  "app_id": "a937baf0",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
